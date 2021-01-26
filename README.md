@@ -23,7 +23,5 @@ This project is an intoduction to python flask development for APIs. In it I foc
   - How to create, read, update and delete infomation from database 
   - How to write classes to represent db model. 
 
-### WTF-Form 
-  - I learned how to do basic server side form validation. 
   
 
